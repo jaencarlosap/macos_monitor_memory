@@ -6,4 +6,4 @@ To run the monitor of memory you can run into your downloaded folder
 ./app
 ```
 
-[Download the executable](https://github.com/jaencarlosap/macos_monitor_memory/tree/main/dist/app)
+[Download the executable](https://github.com/jaencarlosap/macos_monitor_memory/releases/download/latest/app)
